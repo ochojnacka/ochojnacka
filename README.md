@@ -1,4 +1,4 @@
-### Hi there <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> 
+# Hi there <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> 
 
 Im Oliwia  
 ~ Working on my CS bachelor's degree
